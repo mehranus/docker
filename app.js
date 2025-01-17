@@ -5,6 +5,7 @@ const port=3000
 
 app.get('/',(req,res)=>{
    res.send("Hello Docker khan")
+   console.log('hello docker')
 })
 
 
