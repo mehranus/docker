@@ -11,3 +11,7 @@ app.get('/',(req,res)=>{
 app.listen(port,()=>{
   console.log(`run server in port :${port}`)
 })
+
+
+//! Docker
+//* start and stop contaner by ID 
