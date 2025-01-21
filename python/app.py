@@ -4,6 +4,7 @@ min_random=int(input("please input min number:"))
 max_random=int(input("please input max number:"))
 #docker remove contaner --> rm
 #docker remove images --> rmi
+#docker auto remove countaner -->  --rm tag
 
 
 if(max_random < min_random):
