@@ -2,7 +2,8 @@ from random import randint
 
 min_random=int(input("please input min number:"))
 max_random=int(input("please input max number:"))
-#docker removie contaner
+#docker remove contaner --> rm
+#docker remove images --> rmi
 
 
 if(max_random < min_random):
