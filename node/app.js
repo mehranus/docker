@@ -17,3 +17,4 @@ app.listen(port,()=>{
 //! Docker
 //* start and stop contaner by ID 
 //* docker set name asing for countaner
+//* docker set name and tag image
